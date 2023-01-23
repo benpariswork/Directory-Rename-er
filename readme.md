@@ -1,6 +1,6 @@
 # Directory Renam-er
 
-A short python script that renames the files in a directory systematically. 
+A short python script that systematically renames the files in a directory. 
 
 ## Description
 
